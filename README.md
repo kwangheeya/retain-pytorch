@@ -12,6 +12,7 @@ NOTE!!: Origianl codes the authors wrote are in https://github.com/mp2893/retain
 ## Reference codes
 * https://github.com/jayheo/UA
 * https://github.com/mp2893/retain
+* Sparsemax for pytorch version https://github.com/KrisKorrel/sparsemax-pytorch
 
 ## Data reference
 * Physionet (dataset a) https://physionet.org/physiobank/database/challenge/2012/
